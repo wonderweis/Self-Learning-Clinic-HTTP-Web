@@ -1,0 +1,28 @@
+{
+  "name": "cli-app",
+  "version": "1.0.0",
+  "description": "A simple command line application that comsumes a Public API using HTTP client library ",
+  "main": "index.js.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wonderweis/Self-Learning-Clinic-HTTP-Web.git"
+  },
+  "keywords": [
+    "command",
+    "line",
+    "API",
+    "app",
+    "HTTP",
+    "client",
+    "library"
+  ],
+  "author": "Chidubem Gerald Emmanuel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wonderweis/Self-Learning-Clinic-HTTP-Web/issues"
+  },
+  "homepage": "https://github.com/wonderweis/Self-Learning-Clinic-HTTP-Web#readme"
+}
